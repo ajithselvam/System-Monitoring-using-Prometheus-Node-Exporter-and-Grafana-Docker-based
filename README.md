@@ -1,9 +1,7 @@
-# System-Monitoring-using-Prometheus-Node-Exporter-and-Grafana-Docker-based
+# 🖥️ System Monitoring using Prometheus, Node Exporter, and Grafana (Docker-based)
 
 Monitored macOS system metrics using Prometheus and Node Exporter, visualized through Grafana dashboards — all deployed via Docker containers.
 
-
-# 🖥️ System Monitoring using Prometheus, Node Exporter, and Grafana (Docker-based)
 
 Monitor and visualize system-level metrics (CPU, memory, disk, and network usage) from your macOS machine using **Prometheus**, **Node Exporter**, and **Grafana**, all running in Docker containers.
 
